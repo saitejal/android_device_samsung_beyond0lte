@@ -311,6 +311,7 @@ vendor/lib64/libsomxhevcdsw.so
 vendor/lib64/libsomxmp3d.so
 vendor/lib64/libsomxmp4vdsw.so
 vendor/lib64/libsomxmp43d.so
+vendor/lib64/libsomxmp4vdsw.so
 vendor/lib64/libsomxnaace.so
 vendor/lib64/libsomxvc1dsw.so
 vendor/lib64/libsomxvp8d.so
@@ -392,6 +393,8 @@ vendor/lib64/libteecl.so
 vendor/lib64/libuuid.so
 
 # TEEGRIS_FIRMWARE
+vendor/tee/00000000-0000-0000-0000-000000000046
+vendor/tee/00000000-0000-0000-0000-656e676d6f64
 vendor/tee/00000000-0000-0000-0000-00000000dead
 vendor/tee/00000000-0000-0000-0000-000000010081
 vendor/tee/00000000-0000-0000-0000-000000020081
