@@ -132,7 +132,7 @@ vendor/lib/camera.device@3.4-impl.so
 vendor/lib/camera.device@3.5-impl.so
 vendor/lib/vendor.samsung.camera.device@5.0-impl.so
 vendor/lib/vendor.samsung.hardware.camera.device@5.0.so
-\vendor/lib/vendor.samsung.hardware.camera.provider@4.0.so
+vendor/lib/vendor.samsung.hardware.camera.provider@4.0.so
 vendor/lib64/hw/camera.exynos9820.so
 -vendor/lib64/hw/vendor.samsung.hardware.camera.provider@4.0-impl.so
 vendor/lib64/camera.device@1.0-impl.so
@@ -577,7 +577,7 @@ vendor/etc/init/android.hardware.drm@1.3-service.widevine.rc
 vendor/etc/init/vendor.samsung.hardware.security.widevine.keyprov@1.0-service.rc
 vendor/lib/liboemcrypto.so
 vendor/lib/libwvhidl.so
-vendor/lib64/vendor.samsung.hardware.security.widevine.keyprovisioning@1.0.so
+vendor/lib64/vendor.samsung.hardware.security.widevine.keyprov@1.0.so
 
 # WIFI
 vendor/bin/hw/macloader
